@@ -5,3 +5,9 @@ saved_models/weights.best.from_scratch.hdf5
 saved_models/weights.best.vgg16.hdf5
 .ipynb_checkpoints/
 bottleneck_features/DogVGG16Data.npz
+bottleneck_features/train.npy
+bottleneck_features/train_OH.npy
+bottleneck_features/valid.npy
+bottleneck_features/test.npy
+bottleneck_features/filenames_train.npy
+
